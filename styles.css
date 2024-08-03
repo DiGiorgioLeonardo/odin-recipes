@@ -1,0 +1,17 @@
+body
+{
+    background-color:aliceblue;
+}
+
+.main-title
+{
+    text-align: center;
+    background-color: beige;
+}
+
+.list
+{
+    background-color: bisque;
+    font-family: "Courier New", monospace;
+    font-weight: 700;
+}
