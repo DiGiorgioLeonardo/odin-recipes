@@ -1,8 +1,16 @@
+/* Global styles */
+
 body
 {
     background-color:aliceblue;
 }
 
+h2
+{
+    background-color: beige;
+}
+
+/* Styles for index.html */
 .main-title
 {
     text-align: center;
@@ -14,4 +22,11 @@ body
     background-color: bisque;
     font-family: "Courier New", monospace;
     font-weight: 700;
+}
+
+/* Styles for chicken-enchilada.html */
+
+.recipe-title
+{
+    text-align: center;
 }
